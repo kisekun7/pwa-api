@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Barbet, levaillant's","category":"Puce"},
+{"id":2,"name":"Little cormorant","category":"Maroon"},
+{"id":3,"name":"Galapagos mockingbird","category":"Red"},
+{"id":4,"name":"Caribou","category":"Crimson"},
+{"id":5,"name":"Spotted wood sandpiper","category":"Crimson"},
+{"id":6,"name":"White spoonbill","category":"Purple"},
+{"id":7,"name":"Common melba finch","category":"Puce"},
+{"id":8,"name":"Whale, killer","category":"Khaki"},
+{"id":9,"name":"American marten","category":"Khaki"},
+{"id":10,"name":"Cockatoo, long-billed","category":"Purple"},
+{"id":11,"name":"Turtle, long-necked","category":"Crimson"},
+{"id":12,"name":"White-bellied sea eagle","category":"Aquamarine"},
+{"id":13,"name":"Giraffe","category":"Orange"},
+{"id":14,"name":"Klipspringer","category":"Aquamarine"},
+{"id":15,"name":"Chuckwalla","category":"Purple"},
+{"id":16,"name":"Malagasy ground boa","category":"Green"},
+{"id":17,"name":"Caracara, yellow-headed","category":"Indigo"},
+{"id":18,"name":"Genet, small-spotted","category":"Violet"},
+{"id":19,"name":"White-browed owl","category":"Purple"},
+{"id":20,"name":"Mynah, common","category":"Turquoise"}
+  ]
+}
